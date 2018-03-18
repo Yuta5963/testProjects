@@ -25,6 +25,6 @@ public class Main {
 
 class TestMain extends Main {
     public static void sub() {
-        System.out.println("Hello!");
+        System.out.println("Hello Git!");
     }
 }

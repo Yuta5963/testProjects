@@ -24,7 +24,7 @@ public class Main {
 }
 
 class TestMain extends Main {
-    public static void main(String[] args) {
-        System.out.println("GoodBy!");
+    public static void sub() {
+        System.out.println("Hello!");
     }
 }
